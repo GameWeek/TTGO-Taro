@@ -1,0 +1,36 @@
+.page{
+    text-align: center;
+}
+.img{
+    width: 135px;
+    height: 240px;
+    margin: 0px auto;
+    background-color: #ccc;
+    zoom: 2;
+    border-radius: 2px;
+}
+.progress{
+    width: 135px;
+    zoom: 2;
+    margin: -6px auto;
+}
+.text{
+    display: block;
+    width: 96%;
+    margin: 20px auto;
+    font-size: 20px;
+    color: darkgrey;
+}
+.btn{
+    width: 96%;
+    margin: 20px auto;
+}
+.flex-wrp{
+    display: flex;
+    width: 96%;
+    margin: 20px auto;
+}
+.flex-item{
+    width: 50%;
+    text-align: start;
+}
